@@ -15,7 +15,7 @@ MeowMatch Bliss is a mobile application designed for cat matchmaking, helping ca
 - **Authentication**: Firebase Authentication for user sign-up and login
 
 ### MeowMatch Bliss UI - Homepage
-![MeowMatch Bliss UI - Homepage](https://github.com/iamnotbibia/Game-Store-Website/blob/main/assets/home_game.png?raw=true)
+![MeowMatch Bliss UI - Homepage](https://github.com/iamnotbibia/MeowMatch-Bliss-Application/blob/main/assets/home-meow.png?raw=true)
 
 ## Let's Play with Cats!
 We hope that MeowMatch Bliss helps all cat owners find new friends for their cats. Whether you're a cat owner looking for a playmate for your feline friend or just want to meet other cat owners, we welcome everyone to join in the fun with this app! 
