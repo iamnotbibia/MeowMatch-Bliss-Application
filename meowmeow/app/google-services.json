@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "510580008711",
+    "firebase_url": "https://meowmatch-bliss-default-rtdb.firebaseio.com",
+    "project_id": "meowmatch-bliss",
+    "storage_bucket": "meowmatch-bliss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510580008711:android:cab9999da5933fc7fe87a2",
+        "android_client_info": {
+          "package_name": "com.example.meow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoG-wPEhuGFMUjL3cRdGbc0kxCj-7_ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
